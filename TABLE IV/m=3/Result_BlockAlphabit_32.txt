@@ -1,0 +1,2553 @@
+timestamp = 1680273780
+x = 18.954702; y = 0.006549
+a = 0.600000; b = 0.400000; c = -3.300000
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Alphabit:   nb = 4294967296
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    2,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                  4
+       Expected number per cell =  2.1474836e+08
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  5.8207661e-10,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.42
+p-value of test                       :    0.12
+
+Kolmogorov-Smirnov- statistic = D-    :   0.020
+p-value of test                       :    0.98
+
+Anderson-Darling statistic = A2       :    1.13
+p-value of test                       :    0.29
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -1.08
+p-value of test                       :    0.86
+
+Standardized empirical correlation    :    0.27
+p-value of test                       :    0.39
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:03.07
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    4,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                 16
+       Expected number per cell =    53687090
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  4.0745363e-09,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.31
+p-value of test                       :    0.31
+
+Kolmogorov-Smirnov- statistic = D-    :   0.087
+p-value of test                       :    0.88
+
+Anderson-Darling statistic = A2       :    0.62
+p-value of test                       :    0.62
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -0.94
+p-value of test                       :    0.83
+
+Standardized empirical correlation    :  -0.030
+p-value of test                       :    0.51
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:58.65
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    8,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                256
+       Expected number per cell =   3355443.1
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  7.3923729e-08,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.16
+p-value of test                       :    0.71
+
+Kolmogorov-Smirnov- statistic = D-    :    0.23
+p-value of test                       :    0.52
+
+Anderson-Darling statistic = A2       :    0.34
+p-value of test                       :    0.90
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    0.27
+p-value of test                       :    0.40
+
+Standardized empirical correlation    :   -0.58
+p-value of test                       :    0.72
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:56.71
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =   16,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =              65536
+       Expected number per cell =     13107.2
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  1.9072904e-05,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.16
+p-value of test                       :    0.72
+
+Kolmogorov-Smirnov- statistic = D-    :    0.22
+p-value of test                       :    0.54
+
+Anderson-Darling statistic = A2       :    0.35
+p-value of test                       :    0.90
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    0.42
+p-value of test                       :    0.34
+
+Standardized empirical correlation    :    0.57
+p-value of test                       :    0.28
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:04.68
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 16,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  265
+Chi-square statistic                  :  287.00
+p-value of test                       :    0.17
+
+-----------------------------------------------
+CPU time used                    :  00:00:54.50
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L = 32,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  553
+Chi-square statistic                  :  517.66
+p-value of test                       :    0.86
+
+-----------------------------------------------
+CPU time used                    :  00:00:55.60
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 32
+
+
+
+-----------------------------------------------
+Normal statistic                      :    0.49
+p-value of test                       :    0.31
+
+-----------------------------------------------
+CPU time used                    :  00:00:55.37
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L0 =   64,   L1 =   64
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   41.91
+p-value of test                       :    0.39
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   44.02
+p-value of test                       :    0.31
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :   32
+ChiSquare statistic                   :   34.05
+p-value of test                       :    0.37
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   29
+ChiSquare statistic                   :   24.45
+p-value of test                       :    0.71
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   20
+ChiSquare statistic                   :   20.99
+p-value of test                       :    0.40
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:14.31
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 13421772,  r =  0,   s = 32,   L0 =  320,   L1 =  320
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   84
+ChiSquare statistic                   :  108.04
+p-value of test                       :    0.04
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   85
+ChiSquare statistic                   :   89.35
+p-value of test                       :    0.35
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :  160
+ChiSquare statistic                   :  161.27
+p-value of test                       :    0.46
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   75
+ChiSquare statistic                   :   68.61
+p-value of test                       :    0.69
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   43
+ChiSquare statistic                   :   32.42
+p-value of test                       :    0.88
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:14.73
+
+Generator state:
+
+
+
+
+
+========= Summary results of Alphabit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        TLSN_Bits
+unif01_CreateBitBlockGen
+ Number of bits:   4294967296
+ Number of statistics:  17
+ Total CPU time:   00:09:17.62
+
+ All tests were passed
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Alphabit:   nb = 4294967296
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    2,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                  4
+       Expected number per cell =  2.1474836e+08
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  5.8207661e-10,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.15
+p-value of test                       :    0.75
+
+Kolmogorov-Smirnov- statistic = D-    :    0.25
+p-value of test                       :    0.47
+
+Anderson-Darling statistic = A2       :    0.34
+p-value of test                       :    0.91
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   0.084
+p-value of test                       :    0.47
+
+Standardized empirical correlation    :   -0.31
+p-value of test                       :    0.62
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:07.33
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    4,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                 16
+       Expected number per cell =    53687090
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  4.0745363e-09,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.19
+p-value of test                       :    0.62
+
+Kolmogorov-Smirnov- statistic = D-    :    0.29
+p-value of test                       :    0.36
+
+Anderson-Darling statistic = A2       :    0.64
+p-value of test                       :    0.60
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    0.49
+p-value of test                       :    0.31
+
+Standardized empirical correlation    :    1.17
+p-value of test                       :    0.12
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:03.67
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    8,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                256
+       Expected number per cell =   3355443.1
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  7.3923729e-08,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.31
+p-value of test                       :    0.33
+
+Kolmogorov-Smirnov- statistic = D-    :    0.15
+p-value of test                       :    0.74
+
+Anderson-Darling statistic = A2       :    0.44
+p-value of test                       :    0.80
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -0.62
+p-value of test                       :    0.73
+
+Standardized empirical correlation    :    0.21
+p-value of test                       :    0.42
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:04.24
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =   16,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =              65536
+       Expected number per cell =     13107.2
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  1.9072904e-05,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.42
+p-value of test                       :    0.12
+
+Kolmogorov-Smirnov- statistic = D-    :   0.016
+p-value of test                       :    0.98
+
+Anderson-Darling statistic = A2       :    1.76
+p-value of test                       :    0.13
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -1.85
+p-value of test                       :    0.97
+
+Standardized empirical correlation    :  -0.035
+p-value of test                       :    0.51
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:08.51
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 16,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  265
+Chi-square statistic                  :  257.90
+p-value of test                       :    0.61
+
+-----------------------------------------------
+CPU time used                    :  00:01:00.30
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L = 32,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  553
+Chi-square statistic                  :  511.29
+p-value of test                       :    0.90
+
+-----------------------------------------------
+CPU time used                    :  00:01:00.55
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 32
+
+
+
+-----------------------------------------------
+Normal statistic                      :    1.32
+p-value of test                       :    0.09
+
+-----------------------------------------------
+CPU time used                    :  00:00:58.55
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L0 =   64,   L1 =   64
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   31.61
+p-value of test                       :    0.83
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   29.16
+p-value of test                       :    0.90
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :   32
+ChiSquare statistic                   :   26.59
+p-value of test                       :    0.74
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   29
+ChiSquare statistic                   :   33.50
+p-value of test                       :    0.26
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   20
+ChiSquare statistic                   :   16.70
+p-value of test                       :    0.67
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:15.00
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 13421772,  r =  0,   s = 32,   L0 =  320,   L1 =  320
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   84
+ChiSquare statistic                   :   80.71
+p-value of test                       :    0.58
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   85
+ChiSquare statistic                   :   68.65
+p-value of test                       :    0.90
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :  160
+ChiSquare statistic                   :  157.11
+p-value of test                       :    0.55
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   75
+ChiSquare statistic                   :  111.39
+p-value of test                       :  4.1e-3
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   43
+ChiSquare statistic                   :   28.11
+p-value of test                       :    0.96
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:13.32
+
+Generator state:
+
+
+
+
+
+========= Summary results of Alphabit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        TLSN_Bits
+unif01_CreateBitBlockGen
+ Number of bits:   4294967296
+ Number of statistics:  17
+ Total CPU time:   00:09:51.52
+
+ All tests were passed
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Alphabit:   nb = 4294967296
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    2,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                  4
+       Expected number per cell =  2.1474836e+08
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  5.8207661e-10,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.25
+p-value of test                       :    0.45
+
+Kolmogorov-Smirnov- statistic = D-    :    0.28
+p-value of test                       :    0.40
+
+Anderson-Darling statistic = A2       :    0.56
+p-value of test                       :    0.67
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    0.59
+p-value of test                       :    0.28
+
+Standardized empirical correlation    :   -1.15
+p-value of test                       :    0.88
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:07.88
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    4,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                 16
+       Expected number per cell =    53687090
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  4.0745363e-09,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.11
+p-value of test                       :    0.84
+
+Kolmogorov-Smirnov- statistic = D-    :    0.33
+p-value of test                       :    0.28
+
+Anderson-Darling statistic = A2       :    0.68
+p-value of test                       :    0.57
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    0.89
+p-value of test                       :    0.19
+
+Standardized empirical correlation    :    0.17
+p-value of test                       :    0.43
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:03.16
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    8,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                256
+       Expected number per cell =   3355443.1
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  7.3923729e-08,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.22
+p-value of test                       :    0.54
+
+Kolmogorov-Smirnov- statistic = D-    :    0.18
+p-value of test                       :    0.64
+
+Anderson-Darling statistic = A2       :    0.30
+p-value of test                       :    0.93
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           : 7.53e-4
+p-value of test                       :    0.50
+
+Standardized empirical correlation    :   -0.59
+p-value of test                       :    0.72
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:01.90
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =   16,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =              65536
+       Expected number per cell =     13107.2
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  1.9072904e-05,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.43
+p-value of test                       :    0.12
+
+Kolmogorov-Smirnov- statistic = D-    :   0.081
+p-value of test                       :    0.89
+
+Anderson-Darling statistic = A2       :    0.95
+p-value of test                       :    0.38
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -1.01
+p-value of test                       :    0.84
+
+Standardized empirical correlation    :    0.77
+p-value of test                       :    0.22
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:07.29
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 16,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  265
+Chi-square statistic                  :  299.07
+p-value of test                       :    0.07
+
+-----------------------------------------------
+CPU time used                    :  00:00:58.85
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L = 32,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  553
+Chi-square statistic                  :  506.67
+p-value of test                       :    0.92
+
+-----------------------------------------------
+CPU time used                    :  00:00:59.35
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 32
+
+
+
+-----------------------------------------------
+Normal statistic                      :    0.69
+p-value of test                       :    0.24
+
+-----------------------------------------------
+CPU time used                    :  00:00:57.50
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L0 =   64,   L1 =   64
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   29.87
+p-value of test                       :    0.88
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   36.50
+p-value of test                       :    0.63
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :   32
+ChiSquare statistic                   :   30.43
+p-value of test                       :    0.55
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   29
+ChiSquare statistic                   :   14.69
+p-value of test                       :    0.99
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   20
+ChiSquare statistic                   :   12.71
+p-value of test                       :    0.89
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:14.91
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 13421772,  r =  0,   s = 32,   L0 =  320,   L1 =  320
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   84
+ChiSquare statistic                   :  110.71
+p-value of test                       :    0.03
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   85
+ChiSquare statistic                   :   86.78
+p-value of test                       :    0.43
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :  160
+ChiSquare statistic                   :  159.11
+p-value of test                       :    0.50
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   75
+ChiSquare statistic                   :   84.22
+p-value of test                       :    0.22
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   43
+ChiSquare statistic                   :   36.01
+p-value of test                       :    0.77
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:11.77
+
+Generator state:
+
+
+
+
+
+========= Summary results of Alphabit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        TLSN_Bits
+unif01_CreateBitBlockGen
+ Number of bits:   4294967296
+ Number of statistics:  17
+ Total CPU time:   00:09:42.66
+
+ All tests were passed
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Alphabit:   nb = 4294967296
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    2,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                  4
+       Expected number per cell =  2.1474836e+08
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  5.8207661e-10,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.11
+p-value of test                       :    0.83
+
+Kolmogorov-Smirnov- statistic = D-    :    0.23
+p-value of test                       :    0.51
+
+Anderson-Darling statistic = A2       :    0.25
+p-value of test                       :    0.97
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    0.22
+p-value of test                       :    0.41
+
+Standardized empirical correlation    :   -0.13
+p-value of test                       :    0.55
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:04.94
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    4,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                 16
+       Expected number per cell =    53687090
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  4.0745363e-09,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.49
+p-value of test                       :    0.06
+
+Kolmogorov-Smirnov- statistic = D-    :   0.042
+p-value of test                       :    0.95
+
+Anderson-Darling statistic = A2       :    2.11
+p-value of test                       :    0.08
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -1.67
+p-value of test                       :    0.95
+
+Standardized empirical correlation    :    1.65
+p-value of test                       :    0.05
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:58.82
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    8,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                256
+       Expected number per cell =   3355443.1
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  7.3923729e-08,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.16
+p-value of test                       :    0.70
+
+Kolmogorov-Smirnov- statistic = D-    :    0.38
+p-value of test                       :    0.19
+
+Anderson-Darling statistic = A2       :    0.99
+p-value of test                       :    0.36
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    0.74
+p-value of test                       :    0.23
+
+Standardized empirical correlation    :    1.33
+p-value of test                       :    0.09
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:57.38
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =   16,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =              65536
+       Expected number per cell =     13107.2
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  1.9072904e-05,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.44
+p-value of test                       :    0.11
+
+Kolmogorov-Smirnov- statistic = D-    :    0.17
+p-value of test                       :    0.68
+
+Anderson-Darling statistic = A2       :    1.01
+p-value of test                       :    0.35
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -0.90
+p-value of test                       :    0.82
+
+Standardized empirical correlation    :    0.25
+p-value of test                       :    0.40
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:02.53
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 16,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  265
+Chi-square statistic                  :  237.63
+p-value of test                       :    0.89
+
+-----------------------------------------------
+CPU time used                    :  00:00:53.10
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L = 32,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  553
+Chi-square statistic                  :  553.74
+p-value of test                       :    0.48
+
+-----------------------------------------------
+CPU time used                    :  00:00:53.73
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 32
+
+
+
+-----------------------------------------------
+Normal statistic                      :    1.44
+p-value of test                       :    0.07
+
+-----------------------------------------------
+CPU time used                    :  00:00:51.86
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L0 =   64,   L1 =   64
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   48.43
+p-value of test                       :    0.17
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   47.16
+p-value of test                       :    0.20
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :   32
+ChiSquare statistic                   :   24.88
+p-value of test                       :    0.81
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   29
+ChiSquare statistic                   :   45.42
+p-value of test                       :    0.03
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   20
+ChiSquare statistic                   :   21.93
+p-value of test                       :    0.34
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:12.36
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 13421772,  r =  0,   s = 32,   L0 =  320,   L1 =  320
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   84
+ChiSquare statistic                   :   78.86
+p-value of test                       :    0.64
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   85
+ChiSquare statistic                   :   79.46
+p-value of test                       :    0.65
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :  160
+ChiSquare statistic                   :  179.87
+p-value of test                       :    0.13
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   75
+ChiSquare statistic                   :   64.69
+p-value of test                       :    0.80
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   43
+ChiSquare statistic                   :   35.12
+p-value of test                       :    0.80
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:13.11
+
+Generator state:
+
+
+
+
+
+========= Summary results of Alphabit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        TLSN_Bits
+unif01_CreateBitBlockGen
+ Number of bits:   4294967296
+ Number of statistics:  17
+ Total CPU time:   00:09:07.88
+
+ All tests were passed
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Alphabit:   nb = 4294967296
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    2,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                  4
+       Expected number per cell =  2.1474836e+08
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  5.8207661e-10,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.18
+p-value of test                       :    0.64
+
+Kolmogorov-Smirnov- statistic = D-    :    0.28
+p-value of test                       :    0.38
+
+Anderson-Darling statistic = A2       :    0.52
+p-value of test                       :    0.72
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    0.48
+p-value of test                       :    0.31
+
+Standardized empirical correlation    :   -1.30
+p-value of test                       :    0.90
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:57.71
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    4,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                 16
+       Expected number per cell =    53687090
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  4.0745363e-09,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.17
+p-value of test                       :    0.69
+
+Kolmogorov-Smirnov- statistic = D-    :    0.28
+p-value of test                       :    0.40
+
+Anderson-Darling statistic = A2       :    0.75
+p-value of test                       :    0.51
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    0.96
+p-value of test                       :    0.17
+
+Standardized empirical correlation    :   -3.56
+p-value of test                       :    0.9998    *****
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:54.25
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    8,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                256
+       Expected number per cell =   3355443.1
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  7.3923729e-08,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.37
+p-value of test                       :    0.21
+
+Kolmogorov-Smirnov- statistic = D-    :    0.15
+p-value of test                       :    0.74
+
+Anderson-Darling statistic = A2       :    0.88
+p-value of test                       :    0.42
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -0.93
+p-value of test                       :    0.82
+
+Standardized empirical correlation    :   -0.20
+p-value of test                       :    0.58
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:54.82
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =   16,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =              65536
+       Expected number per cell =     13107.2
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  1.9072904e-05,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :   0.036
+p-value of test                       :    0.96
+
+Kolmogorov-Smirnov- statistic = D-    :    0.47
+p-value of test                       :    0.08
+
+Anderson-Darling statistic = A2       :    2.15
+p-value of test                       :    0.08
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    1.90
+p-value of test                       :    0.03
+
+Standardized empirical correlation    :    1.14
+p-value of test                       :    0.13
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:03.78
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 16,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  265
+Chi-square statistic                  :  307.71
+p-value of test                       :    0.04
+
+-----------------------------------------------
+CPU time used                    :  00:00:55.23
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L = 32,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  553
+Chi-square statistic                  :  563.89
+p-value of test                       :    0.36
+
+-----------------------------------------------
+CPU time used                    :  00:00:55.94
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 32
+
+
+
+-----------------------------------------------
+Normal statistic                      :   -1.99
+p-value of test                       :    0.98
+
+-----------------------------------------------
+CPU time used                    :  00:00:54.61
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L0 =   64,   L1 =   64
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   47.09
+p-value of test                       :    0.21
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   42.43
+p-value of test                       :    0.37
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :   32
+ChiSquare statistic                   :   36.59
+p-value of test                       :    0.26
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   29
+ChiSquare statistic                   :   27.69
+p-value of test                       :    0.53
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   20
+ChiSquare statistic                   :   27.38
+p-value of test                       :    0.12
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:12.28
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 13421772,  r =  0,   s = 32,   L0 =  320,   L1 =  320
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   84
+ChiSquare statistic                   :   75.59
+p-value of test                       :    0.73
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   85
+ChiSquare statistic                   :   85.16
+p-value of test                       :    0.47
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :  160
+ChiSquare statistic                   :  152.20
+p-value of test                       :    0.66
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   75
+ChiSquare statistic                   :   81.33
+p-value of test                       :    0.29
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   43
+ChiSquare statistic                   :   35.56
+p-value of test                       :    0.78
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:09.59
+
+Generator state:
+
+
+
+
+
+========= Summary results of Alphabit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        TLSN_Bits
+unif01_CreateBitBlockGen
+ Number of bits:   4294967296
+ Number of statistics:  17
+ Total CPU time:   00:08:58.26
+
+ All tests were passed
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Alphabit:   nb = 4294967296
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    2,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                  4
+       Expected number per cell =  2.1474836e+08
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  5.8207661e-10,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :   0.036
+p-value of test                       :    0.96
+
+Kolmogorov-Smirnov- statistic = D-    :    0.70
+p-value of test                       :  3.0e-3
+
+Anderson-Darling statistic = A2       :    2.94
+p-value of test                       :    0.03
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    2.06
+p-value of test                       :    0.02
+
+Standardized empirical correlation    :    1.03
+p-value of test                       :    0.15
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:02.44
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    4,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                 16
+       Expected number per cell =    53687090
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  4.0745363e-09,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.23
+p-value of test                       :    0.51
+
+Kolmogorov-Smirnov- statistic = D-    :    0.28
+p-value of test                       :    0.40
+
+Anderson-Darling statistic = A2       :    0.49
+p-value of test                       :    0.75
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -0.28
+p-value of test                       :    0.61
+
+Standardized empirical correlation    :   -0.23
+p-value of test                       :    0.59
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:00.55
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    8,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                256
+       Expected number per cell =   3355443.1
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  7.3923729e-08,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :   0.080
+p-value of test                       :    0.89
+
+Kolmogorov-Smirnov- statistic = D-    :    0.23
+p-value of test                       :    0.51
+
+Anderson-Darling statistic = A2       :    0.32
+p-value of test                       :    0.92
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    0.49
+p-value of test                       :    0.31
+
+Standardized empirical correlation    :    0.83
+p-value of test                       :    0.20
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:59.11
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =   16,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =              65536
+       Expected number per cell =     13107.2
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  1.9072904e-05,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :   0.067
+p-value of test                       :    0.91
+
+Kolmogorov-Smirnov- statistic = D-    :    0.64
+p-value of test                       :  7.6e-3
+
+Anderson-Darling statistic = A2       :    3.59
+p-value of test                       :    0.01
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    2.24
+p-value of test                       :    0.01
+
+Standardized empirical correlation    :    2.03
+p-value of test                       :    0.02
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:04.23
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 16,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  265
+Chi-square statistic                  :  258.47
+p-value of test                       :    0.60
+
+-----------------------------------------------
+CPU time used                    :  00:00:51.65
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L = 32,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  553
+Chi-square statistic                  :  556.85
+p-value of test                       :    0.45
+
+-----------------------------------------------
+CPU time used                    :  00:00:50.30
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 32
+
+
+
+-----------------------------------------------
+Normal statistic                      :  -0.035
+p-value of test                       :    0.51
+
+-----------------------------------------------
+CPU time used                    :  00:00:50.80
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L0 =   64,   L1 =   64
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   33.99
+p-value of test                       :    0.74
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   42.00
+p-value of test                       :    0.38
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :   32
+ChiSquare statistic                   :   37.89
+p-value of test                       :    0.22
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   29
+ChiSquare statistic                   :   30.87
+p-value of test                       :    0.37
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   20
+ChiSquare statistic                   :   14.83
+p-value of test                       :    0.79
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:13.03
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 13421772,  r =  0,   s = 32,   L0 =  320,   L1 =  320
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   84
+ChiSquare statistic                   :   82.80
+p-value of test                       :    0.52
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   85
+ChiSquare statistic                   :   81.22
+p-value of test                       :    0.60
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :  160
+ChiSquare statistic                   :  185.17
+p-value of test                       :    0.08
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   75
+ChiSquare statistic                   :   91.58
+p-value of test                       :    0.09
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   43
+ChiSquare statistic                   :   50.83
+p-value of test                       :    0.19
+
+
+-----------------------------------------------
+CPU time used                    :  00:01:09.00
+
+Generator state:
+
+
+
+
+
+========= Summary results of Alphabit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        TLSN_Bits
+unif01_CreateBitBlockGen
+ Number of bits:   4294967296
+ Number of statistics:  17
+ Total CPU time:   00:09:01.13
+
+ All tests were passed
+
+
+

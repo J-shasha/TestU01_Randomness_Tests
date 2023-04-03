@@ -1,0 +1,5485 @@
+timestamp = 1680189104
+x = 0.107580; y = 0.006417
+a = 0.600000; b = 0.400000; c = 3.000000
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting pseudoDIEHARD
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+smarsa_BirthdaySpacings test with r = 0, 1, 2, 3, 4, 5, 6, 7, 8,
+ .....
+
+ r = 0
+ChiSquare statistic                   :    3.42
+p-value of test                       :    0.75
+
+ r = 1
+ChiSquare statistic                   :    5.58
+p-value of test                       :    0.47
+
+ r = 2
+ChiSquare statistic                   :    7.13
+p-value of test                       :    0.31
+
+ r = 3
+ChiSquare statistic                   :   16.35
+p-value of test                       :    0.01
+
+ r = 4
+ChiSquare statistic                   :   11.31
+p-value of test                       :    0.08
+
+ r = 5
+ChiSquare statistic                   :    6.35
+p-value of test                       :    0.38
+
+ r = 6
+ChiSquare statistic                   :    7.04
+p-value of test                       :    0.32
+
+ r = 7
+ChiSquare statistic                   :    7.28
+p-value of test                       :    0.30
+
+ r = 8
+ChiSquare statistic                   :    3.97
+p-value of test                       :    0.68
+
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 40000,  r =  0,    s = 31,    L = 31,    k = 31
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    3
+Chi-square statistic                  :   11.20
+p-value of test                       :    0.01
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.48
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 40000,  r =  0,    s = 32,    L = 32,    k = 32
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    3
+Chi-square statistic                  :    3.09
+p-value of test                       :    0.38
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.50
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r =  0,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    1.60
+p-value of test                       :    0.45
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.18
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r =  1,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    0.18
+p-value of test                       :    0.92
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.18
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r =  2,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    1.01
+p-value of test                       :    0.60
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.18
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r =  3,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    0.48
+p-value of test                       :    0.79
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.20
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r =  4,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    3.97
+p-value of test                       :    0.14
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.18
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r =  5,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :   10.12
+p-value of test                       :  6.3e-3
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.20
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r =  6,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    8.46
+p-value of test                       :    0.01
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.18
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r =  7,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    1.12
+p-value of test                       :    0.57
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.18
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r =  8,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    0.84
+p-value of test                       :    0.66
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.18
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r =  9,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    3.76
+p-value of test                       :    0.15
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.18
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r = 10,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    1.43
+p-value of test                       :    0.49
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.18
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r = 11,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    3.34
+p-value of test                       :    0.19
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.18
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r = 12,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    1.11
+p-value of test                       :    0.57
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.17
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r = 13,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    1.89
+p-value of test                       :    0.39
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.20
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r = 14,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    2.13
+p-value of test                       :    0.34
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.21
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r = 15,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    0.32
+p-value of test                       :    0.85
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.20
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r = 16,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    0.21
+p-value of test                       :    0.90
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.20
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r = 17,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    0.25
+p-value of test                       :    0.88
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.19
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r = 18,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    0.97
+p-value of test                       :    0.61
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.19
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r = 19,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    7.40
+p-value of test                       :    0.02
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.17
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r = 20,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    2.52
+p-value of test                       :    0.28
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.17
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r = 21,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    1.53
+p-value of test                       :    0.47
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.16
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r = 22,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :   0.065
+p-value of test                       :    0.97
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.17
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r = 23,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    0.16
+p-value of test                       :    0.92
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.16
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r = 24,    s = 8,    L = 6,    k = 8
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    2
+Chi-square statistic                  :    0.90
+p-value of test                       :    0.64
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.19
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N = 20,  n = 2097152,  r =  0,   s = 32,   L =   20,
+       Sparse =   TRUE
+
+       Number of bits = n = 2097152
+       Number of cells = 2^L =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+   For Delta > -1, we use the normal approximation
+   Mean and standard deviation: 
+       Delta =     1,    Mu =         524287,    Sigma =       1024
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.14
+p-value of test                       :    0.40
+
+Kolmogorov-Smirnov- statistic = D-    :    0.11
+p-value of test                       :    0.57
+
+Anderson-Darling statistic = A2       :    0.49
+p-value of test                       :    0.76
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           : 8.95e-3
+p-value of test                       :    0.50
+
+Standardized empirical correlation    :    1.02
+p-value of test                       :    0.15
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.61
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 22,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.99
+p-value of test                       :    0.16
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142197
+  j =  1                              :           283852
+  j =  2                              :           283277
+  j =  3                              :           189389
+  j =  4                              :            94330
+  j =  5                              :            38073
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.68
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 21,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    1.65
+p-value of test                       :    0.05
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142388
+  j =  1                              :           283307
+  j =  2                              :           284030
+  j =  3                              :           188782
+  j =  4                              :            94701
+  j =  5                              :            37873
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.75
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 20,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.19
+p-value of test                       :    0.58
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141852
+  j =  1                              :           283781
+  j =  2                              :           283802
+  j =  3                              :           189255
+  j =  4                              :            94848
+  j =  5                              :            37686
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.76
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 19,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    1.25
+p-value of test                       :    0.11
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142271
+  j =  1                              :           283267
+  j =  2                              :           284080
+  j =  3                              :           189239
+  j =  4                              :            94385
+  j =  5                              :            37844
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.72
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 18,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.92
+p-value of test                       :    0.18
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142177
+  j =  1                              :           284037
+  j =  2                              :           283158
+  j =  3                              :           188943
+  j =  4                              :            94867
+  j =  5                              :            38061
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.75
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 17,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -1.73
+p-value of test                       :    0.96
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141405
+  j =  1                              :           284650
+  j =  2                              :           283539
+  j =  3                              :           189222
+  j =  4                              :            94617
+  j =  5                              :            37749
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.73
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 16,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.25
+p-value of test                       :    0.60
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141835
+  j =  1                              :           283823
+  j =  2                              :           284268
+  j =  3                              :           188863
+  j =  4                              :            94426
+  j =  5                              :            37991
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.81
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 15,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.42
+p-value of test                       :    0.34
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142031
+  j =  1                              :           283740
+  j =  2                              :           283410
+  j =  3                              :           189561
+  j =  4                              :            94860
+  j =  5                              :            37577
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.75
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 14,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    1.08
+p-value of test                       :    0.14
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142221
+  j =  1                              :           283139
+  j =  2                              :           283890
+  j =  3                              :           189524
+  j =  4                              :            94725
+  j =  5                              :            37861
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.75
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 13,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.85
+p-value of test                       :    0.20
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142156
+  j =  1                              :           283650
+  j =  2                              :           283628
+  j =  3                              :           189300
+  j =  4                              :            94559
+  j =  5                              :            37820
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.75
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 12,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    1.41
+p-value of test                       :    0.08
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142318
+  j =  1                              :           282993
+  j =  2                              :           284428
+  j =  3                              :           188873
+  j =  4                              :            94768
+  j =  5                              :            37765
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.75
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 11,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.48
+p-value of test                       :    0.68
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141769
+  j =  1                              :           284138
+  j =  2                              :           283567
+  j =  3                              :           189339
+  j =  4                              :            94590
+  j =  5                              :            37773
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.73
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 10,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.15
+p-value of test                       :    0.44
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141951
+  j =  1                              :           283537
+  j =  2                              :           284011
+  j =  3                              :           189588
+  j =  4                              :            94402
+  j =  5                              :            37707
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.73
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  9,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.22
+p-value of test                       :    0.59
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141845
+  j =  1                              :           283316
+  j =  2                              :           284357
+  j =  3                              :           189438
+  j =  4                              :            94611
+  j =  5                              :            37761
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.71
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  8,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.47
+p-value of test                       :    0.68
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141772
+  j =  1                              :           283690
+  j =  2                              :           284096
+  j =  3                              :           189214
+  j =  4                              :            94874
+  j =  5                              :            37668
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.69
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  7,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.58
+p-value of test                       :    0.28
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142076
+  j =  1                              :           283268
+  j =  2                              :           284257
+  j =  3                              :           189141
+  j =  4                              :            95031
+  j =  5                              :            37356
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.73
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  6,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.75
+p-value of test                       :    0.23
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142125
+  j =  1                              :           283801
+  j =  2                              :           283646
+  j =  3                              :           188842
+  j =  4                              :            94842
+  j =  5                              :            37909
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.69
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  5,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    2.54
+p-value of test                       :  5.6e-3
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142645
+  j =  1                              :           283200
+  j =  2                              :           283331
+  j =  3                              :           189493
+  j =  4                              :            94515
+  j =  5                              :            37866
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.69
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  4,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.54
+p-value of test                       :    0.30
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142064
+  j =  1                              :           283965
+  j =  2                              :           283618
+  j =  3                              :           188719
+  j =  4                              :            94967
+  j =  5                              :            37766
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.69
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  3,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.26
+p-value of test                       :    0.40
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141983
+  j =  1                              :           283660
+  j =  2                              :           283694
+  j =  3                              :           189520
+  j =  4                              :            94557
+  j =  5                              :            37926
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.69
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  2,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.65
+p-value of test                       :    0.74
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141719
+  j =  1                              :           284436
+  j =  2                              :           283593
+  j =  3                              :           188542
+  j =  4                              :            95016
+  j =  5                              :            37868
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.69
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  1,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    2.30
+p-value of test                       :    0.01
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142575
+  j =  1                              :           282643
+  j =  2                              :           284474
+  j =  3                              :           188864
+  j =  4                              :            94611
+  j =  5                              :            38034
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test smarsa_Opso calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  0,   d = 1024,   t =  2,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190484.47
+       Expected standard deviation =     290.33
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -1.40
+p-value of test                       :    0.92
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141503
+  j =  1                              :           284217
+  j =  2                              :           284177
+  j =  3                              :           188856
+  j =  4                              :            94576
+  j =  5                              :            37936
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 27,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    1.14
+p-value of test                       :    0.13
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142243
+  j =  1                              :           282925
+  j =  2                              :           283713
+  j =  3                              :           190129
+  j =  4                              :            94674
+  j =  5                              :            37652
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 26,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.19
+p-value of test                       :    0.58
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141850
+  j =  1                              :           283403
+  j =  2                              :           284919
+  j =  3                              :           188690
+  j =  4                              :            94390
+  j =  5                              :            37877
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 25,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.53
+p-value of test                       :    0.70
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141750
+  j =  1                              :           283658
+  j =  2                              :           284063
+  j =  3                              :           189654
+  j =  4                              :            94393
+  j =  5                              :            37778
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.69
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 24,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.18
+p-value of test                       :    0.57
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141853
+  j =  1                              :           283555
+  j =  2                              :           284434
+  j =  3                              :           189378
+  j =  4                              :            93981
+  j =  5                              :            37976
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.69
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 23,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.11
+p-value of test                       :    0.55
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141873
+  j =  1                              :           283464
+  j =  2                              :           284670
+  j =  3                              :           189155
+  j =  4                              :            94052
+  j =  5                              :            37751
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.69
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 22,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.73
+p-value of test                       :    0.77
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141691
+  j =  1                              :           284069
+  j =  2                              :           284371
+  j =  3                              :           188857
+  j =  4                              :            94046
+  j =  5                              :            37920
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.69
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 21,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    1.29
+p-value of test                       :    0.10
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142288
+  j =  1                              :           283498
+  j =  2                              :           283695
+  j =  3                              :           189203
+  j =  4                              :            94524
+  j =  5                              :            37886
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.71
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 20,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.49
+p-value of test                       :    0.31
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142050
+  j =  1                              :           283536
+  j =  2                              :           283854
+  j =  3                              :           189518
+  j =  4                              :            94446
+  j =  5                              :            37699
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.71
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 19,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.47
+p-value of test                       :    0.68
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141768
+  j =  1                              :           284929
+  j =  2                              :           282439
+  j =  3                              :           189200
+  j =  4                              :            94972
+  j =  5                              :            37913
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.71
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 18,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.87
+p-value of test                       :    0.81
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141650
+  j =  1                              :           283901
+  j =  2                              :           284148
+  j =  3                              :           189089
+  j =  4                              :            94848
+  j =  5                              :            37623
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.69
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 17,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.46
+p-value of test                       :    0.32
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142041
+  j =  1                              :           284097
+  j =  2                              :           283817
+  j =  3                              :           188747
+  j =  4                              :            94201
+  j =  5                              :            38024
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 16,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    1.26
+p-value of test                       :    0.10
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142277
+  j =  1                              :           283225
+  j =  2                              :           283914
+  j =  3                              :           189462
+  j =  4                              :            94329
+  j =  5                              :            38163
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 15,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -1.57
+p-value of test                       :    0.94
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141445
+  j =  1                              :           283620
+  j =  2                              :           284629
+  j =  3                              :           189192
+  j =  4                              :            94768
+  j =  5                              :            37841
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 14,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -1.21
+p-value of test                       :    0.89
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141551
+  j =  1                              :           284247
+  j =  2                              :           283706
+  j =  3                              :           189317
+  j =  4                              :            94713
+  j =  5                              :            37698
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 13,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.29
+p-value of test                       :    0.61
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141821
+  j =  1                              :           283264
+  j =  2                              :           284313
+  j =  3                              :           189654
+  j =  4                              :            94616
+  j =  5                              :            37690
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.75
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 12,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.19
+p-value of test                       :    0.42
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141964
+  j =  1                              :           283379
+  j =  2                              :           284326
+  j =  3                              :           189060
+  j =  4                              :            94649
+  j =  5                              :            37944
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.74
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 11,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    1.92
+p-value of test                       :    0.03
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142473
+  j =  1                              :           283151
+  j =  2                              :           283832
+  j =  3                              :           189050
+  j =  4                              :            94799
+  j =  5                              :            37863
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.68
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 10,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.39
+p-value of test                       :    0.65
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141792
+  j =  1                              :           283828
+  j =  2                              :           284253
+  j =  3                              :           188777
+  j =  4                              :            94699
+  j =  5                              :            37864
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  9,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.87
+p-value of test                       :    0.19
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142163
+  j =  1                              :           283775
+  j =  2                              :           283639
+  j =  3                              :           189091
+  j =  4                              :            94734
+  j =  5                              :            37607
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  8,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.81
+p-value of test                       :    0.79
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141669
+  j =  1                              :           283365
+  j =  2                              :           284641
+  j =  3                              :           189165
+  j =  4                              :            94687
+  j =  5                              :            38123
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  7,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.87
+p-value of test                       :    0.81
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141649
+  j =  1                              :           284313
+  j =  2                              :           283581
+  j =  3                              :           189227
+  j =  4                              :            94613
+  j =  5                              :            37823
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.74
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  6,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.64
+p-value of test                       :    0.26
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142097
+  j =  1                              :           283885
+  j =  2                              :           283687
+  j =  3                              :           188917
+  j =  4                              :            94460
+  j =  5                              :            38013
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.72
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  5,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -1.97
+p-value of test                       :    0.98
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141326
+  j =  1                              :           283969
+  j =  2                              :           285012
+  j =  3                              :           188463
+  j =  4                              :            94635
+  j =  5                              :            37905
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.72
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  4,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.26
+p-value of test                       :    0.40
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141982
+  j =  1                              :           283552
+  j =  2                              :           283429
+  j =  3                              :           190237
+  j =  4                              :            94337
+  j =  5                              :            37787
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.70
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  3,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    1.20
+p-value of test                       :    0.11
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142261
+  j =  1                              :           283148
+  j =  2                              :           284092
+  j =  3                              :           189142
+  j =  4                              :            94607
+  j =  5                              :            38089
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.70
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  2,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :  -0.050
+p-value of test                       :    0.52
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141892
+  j =  1                              :           284174
+  j =  2                              :           283639
+  j =  3                              :           188897
+  j =  4                              :            94537
+  j =  5                              :            38023
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  1,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.59
+p-value of test                       :    0.28
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142081
+  j =  1                              :           283480
+  j =  2                              :           283954
+  j =  3                              :           189201
+  j =  4                              :            94757
+  j =  5                              :            37670
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.71
+
+Generator state:
+
+
+
+
+***********************************************************
+Test OQSO calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  0,   d =   32,   t =  4,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190482.74
+       Expected standard deviation =     295.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.40
+p-value of test                       :    0.65
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141790
+  j =  1                              :           284328
+  j =  2                              :           283616
+  j =  3                              :           188924
+  j =  4                              :            94565
+  j =  5                              :            37786
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.74
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 30,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.76
+p-value of test                       :    0.78
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141644
+  j =  1                              :           283694
+  j =  2                              :           284254
+  j =  3                              :           189645
+  j =  4                              :            94309
+  j =  5                              :            37692
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.72
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 29,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.28
+p-value of test                       :    0.61
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141805
+  j =  1                              :           283957
+  j =  2                              :           284297
+  j =  3                              :           188728
+  j =  4                              :            94279
+  j =  5                              :            38043
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.65
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 28,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.56
+p-value of test                       :    0.71
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141713
+  j =  1                              :           283693
+  j =  2                              :           284033
+  j =  3                              :           189612
+  j =  4                              :            94399
+  j =  5                              :            37923
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.65
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 27,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   0.066
+p-value of test                       :    0.47
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141924
+  j =  1                              :           283807
+  j =  2                              :           283827
+  j =  3                              :           188962
+  j =  4                              :            95107
+  j =  5                              :            37654
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 26,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    1.04
+p-value of test                       :    0.15
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142254
+  j =  1                              :           283709
+  j =  2                              :           283152
+  j =  3                              :           189392
+  j =  4                              :            94863
+  j =  5                              :            37831
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.64
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 25,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.42
+p-value of test                       :    0.66
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141759
+  j =  1                              :           283668
+  j =  2                              :           284302
+  j =  3                              :           188865
+  j =  4                              :            94902
+  j =  5                              :            37887
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.74
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 24,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -1.28
+p-value of test                       :    0.90
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141469
+  j =  1                              :           284188
+  j =  2                              :           284185
+  j =  3                              :           189090
+  j =  4                              :            94246
+  j =  5                              :            38134
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.75
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 23,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.95
+p-value of test                       :    0.17
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142224
+  j =  1                              :           283472
+  j =  2                              :           283889
+  j =  3                              :           188764
+  j =  4                              :            95136
+  j =  5                              :            37779
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.71
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 22,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.14
+p-value of test                       :    0.44
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141949
+  j =  1                              :           283572
+  j =  2                              :           284224
+  j =  3                              :           189132
+  j =  4                              :            94510
+  j =  5                              :            37755
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 21,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.64
+p-value of test                       :    0.26
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142118
+  j =  1                              :           283680
+  j =  2                              :           283843
+  j =  3                              :           188907
+  j =  4                              :            94681
+  j =  5                              :            37935
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 20,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -1.08
+p-value of test                       :    0.86
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141534
+  j =  1                              :           283806
+  j =  2                              :           284678
+  j =  3                              :           188756
+  j =  4                              :            94743
+  j =  5                              :            37718
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.68
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 19,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    2.27
+p-value of test                       :    0.01
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142671
+  j =  1                              :           282841
+  j =  2                              :           283946
+  j =  3                              :           188831
+  j =  4                              :            94994
+  j =  5                              :            38079
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.74
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 18,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.60
+p-value of test                       :    0.72
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141699
+  j =  1                              :           283847
+  j =  2                              :           284481
+  j =  3                              :           189027
+  j =  4                              :            94288
+  j =  5                              :            37735
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.75
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 17,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.81
+p-value of test                       :    0.79
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141626
+  j =  1                              :           283866
+  j =  2                              :           284233
+  j =  3                              :           189288
+  j =  4                              :            94377
+  j =  5                              :            37759
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.74
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 16,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :  -0.010
+p-value of test                       :    0.50
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141898
+  j =  1                              :           283664
+  j =  2                              :           283961
+  j =  3                              :           189159
+  j =  4                              :            94770
+  j =  5                              :            37816
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 15,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    1.18
+p-value of test                       :    0.12
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142302
+  j =  1                              :           284452
+  j =  2                              :           282862
+  j =  3                              :           188426
+  j =  4                              :            95026
+  j =  5                              :            37891
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.65
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 14,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -1.61
+p-value of test                       :    0.95
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141356
+  j =  1                              :           283771
+  j =  2                              :           284724
+  j =  3                              :           189212
+  j =  4                              :            94540
+  j =  5                              :            37861
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.64
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 13,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    1.45
+p-value of test                       :    0.07
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142394
+  j =  1                              :           283715
+  j =  2                              :           283272
+  j =  3                              :           189298
+  j =  4                              :            94401
+  j =  5                              :            37974
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 12,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.25
+p-value of test                       :    0.40
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141986
+  j =  1                              :           283313
+  j =  2                              :           284302
+  j =  3                              :           189179
+  j =  4                              :            94549
+  j =  5                              :            38085
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.71
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 11,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.13
+p-value of test                       :    0.45
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141946
+  j =  1                              :           283530
+  j =  2                              :           284339
+  j =  3                              :           188933
+  j =  4                              :            94493
+  j =  5                              :            38026
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.72
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r = 10,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    1.15
+p-value of test                       :    0.12
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142293
+  j =  1                              :           283609
+  j =  2                              :           283217
+  j =  3                              :           189375
+  j =  4                              :            94698
+  j =  5                              :            38180
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.72
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  9,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.73
+p-value of test                       :    0.77
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141654
+  j =  1                              :           284001
+  j =  2                              :           283811
+  j =  3                              :           189695
+  j =  4                              :            94109
+  j =  5                              :            37953
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  8,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.18
+p-value of test                       :    0.43
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141963
+  j =  1                              :           283680
+  j =  2                              :           283972
+  j =  3                              :           189223
+  j =  4                              :            94528
+  j =  5                              :            37765
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.63
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  7,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.41
+p-value of test                       :    0.34
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142040
+  j =  1                              :           283669
+  j =  2                              :           284010
+  j =  3                              :           188979
+  j =  4                              :            94584
+  j =  5                              :            37891
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  6,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -1.46
+p-value of test                       :    0.93
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141405
+  j =  1                              :           284458
+  j =  2                              :           283688
+  j =  3                              :           189278
+  j =  4                              :            94675
+  j =  5                              :            37790
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.72
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  5,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -1.71
+p-value of test                       :    0.96
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141323
+  j =  1                              :           284128
+  j =  2                              :           284191
+  j =  3                              :           189721
+  j =  4                              :            94228
+  j =  5                              :            37638
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.75
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  4,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   : 7.23e-3
+p-value of test                       :    0.50
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141904
+  j =  1                              :           283671
+  j =  2                              :           284414
+  j =  3                              :           188810
+  j =  4                              :            94544
+  j =  5                              :            37675
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.75
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  3,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -1.67
+p-value of test                       :    0.95
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141334
+  j =  1                              :           283745
+  j =  2                              :           284576
+  j =  3                              :           189627
+  j =  4                              :            94442
+  j =  5                              :            37679
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.68
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  2,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :    0.55
+p-value of test                       :    0.29
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           142088
+  j =  1                              :           284217
+  j =  2                              :           282983
+  j =  3                              :           189151
+  j =  4                              :            94762
+  j =  5                              :            37976
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  1,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -1.35
+p-value of test                       :    0.91
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141445
+  j =  1                              :           284054
+  j =  2                              :           283873
+  j =  3                              :           189581
+  j =  4                              :            94785
+  j =  5                              :            37715
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+Test DNA calling smarsa_CollisionOver
+
+***********************************************************
+Test smarsa_CollisionOver calling smultin_MultinomialOver
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smultin_MultinomialOver test:
+-----------------------------------------------
+   N =  1,  n = 2097152,  r =  0,   d =    4,   t = 10,
+       Sparse =   TRUE
+
+       GenerCell = smultin_GenerCellSerial
+       Number of cells = d^t =            1048576
+       Expected number per cell =           2
+       EColl = n^2 / (2k) =      2097152
+       Hashing =  FALSE
+
+       Collision test
+
+       CollisionOver:   density = n / k =       2.00
+       Expected number of collisions = 1190477.55
+       Expected standard deviation =     339.00
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+NORMAL approximation:
+Value of the standardized statistic   :   -0.62
+p-value of test                       :    0.73
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :           141690
+  j =  1                              :           284174
+  j =  2                              :           284055
+  j =  3                              :           188645
+  j =  4                              :            94637
+  j =  5                              :            38046
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.67
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+snpair_ClosePairs test:
+-----------------------------------------------
+   N = 100,  n = 8000,  r =  0,  t = 2,  p = 2,  m = 1,  Torus =  TRUE
+
+
+---------------------------------------
+Test based on the 2 nearest points (NP):
+
+Stat. AD on the N values (NP)         :    0.50
+p-value of test                       :    0.75
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.53
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+snpair_ClosePairs test:
+-----------------------------------------------
+   N = 20,  n = 4000,  r =  0,  t = 3,  p = 2,  m = 1,  Torus =  TRUE
+
+
+---------------------------------------
+Test based on the 2 nearest points (NP):
+
+Stat. AD on the N values (NP)         :    0.42
+p-value of test                       :    0.83
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.09
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+smarsa_Savir2 test:
+-----------------------------------------------
+   N =  1,  n = 100000,  r =  0,    m = 90000,    t = 18
+
+
+-----------------------------------------------
+Number of degrees of freedom          :   42
+Chi-square statistic                  :   44.81
+p-value of test                       :    0.35
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.48
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+sknuth_Run test:
+-----------------------------------------------
+   N = 10,  n = 10000,  r =  0,   Up =  TRUE
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    :   0.035
+p-value of test                       :    0.95
+
+Kolmogorov-Smirnov- statistic = D-    :    0.23
+p-value of test                       :    0.30
+
+Anderson-Darling statistic = A2       :    0.70
+p-value of test                       :    0.55
+
+Test on the sum of all N observations
+Number of degrees of freedom          :   60
+Chi-square statistic                  :   70.98
+p-value of test                       :    0.16
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.03
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+sknuth_Run test:
+-----------------------------------------------
+   N = 10,  n = 10000,  r =  0,   Up = FALSE
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    :   0.063
+p-value of test                       :    0.89
+
+Kolmogorov-Smirnov- statistic = D-    :    0.26
+p-value of test                       :    0.21
+
+Anderson-Darling statistic = A2       :    0.86
+p-value of test                       :    0.44
+
+Test on the sum of all N observations
+Number of degrees of freedom          :   60
+Chi-square statistic                  :   68.33
+p-value of test                       :    0.22
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.03
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+sknuth_Run test:
+-----------------------------------------------
+   N = 10,  n = 10000,  r =  0,   Up =  TRUE
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    :   0.068
+p-value of test                       :    0.88
+
+Kolmogorov-Smirnov- statistic = D-    :    0.16
+p-value of test                       :    0.55
+
+Anderson-Darling statistic = A2       :    0.28
+p-value of test                       :    0.95
+
+Test on the sum of all N observations
+Number of degrees of freedom          :   60
+Chi-square statistic                  :   63.19
+p-value of test                       :    0.36
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.03
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+TLSN_Bits
+
+
+sknuth_Run test:
+-----------------------------------------------
+   N = 10,  n = 10000,  r =  0,   Up = FALSE
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.17
+p-value of test                       :    0.51
+
+Kolmogorov-Smirnov- statistic = D-    :    0.12
+p-value of test                       :    0.68
+
+Anderson-Darling statistic = A2       :    0.38
+p-value of test                       :    0.86
+
+Test on the sum of all N observations
+Number of degrees of freedom          :   60
+Chi-square statistic                  :   53.15
+p-value of test                       :    0.72
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.03
+
+Generator state:
+
+
+
+
+
+========= Summary results of pseudoDIEHARD =========
+
+ Generator:        TLSN_Bits
+ Number of statistics:  126
+ Total CPU time:   00:01:06.21
+
+ All tests were passed
+
+
+

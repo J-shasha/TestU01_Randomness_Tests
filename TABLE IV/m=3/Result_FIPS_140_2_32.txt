@@ -1,0 +1,40 @@
+timestamp = 1680273780
+x = 18.954702; y = 0.006549
+a = 0.600000; b = 0.400000; c = -3.300000
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting FIPS_140_2
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+============== Summary results of FIPS-140-2 ==============
+
+ Generator:        TLSN_Bits
+ Number of bits:   20000
+
+       Test          s-value        p-value    FIPS Decision
+ --------------------------------------------------------
+ Monobit              10026           0.36       Pass
+ Poker                 2.94           0.9996       Pass
+
+ 0 Runs, length 1:     2455                      Pass
+ 0 Runs, length 2:     1246                      Pass
+ 0 Runs, length 3:      639                      Pass
+ 0 Runs, length 4:      314                      Pass
+ 0 Runs, length 5:      168                      Pass
+ 0 Runs, length 6+:     145                      Pass
+
+ 1 Runs, length 1:     2493                      Pass
+ 1 Runs, length 2:     1215                      Pass
+ 1 Runs, length 3:      599                      Pass
+ 1 Runs, length 4:      341                      Pass
+ 1 Runs, length 5:      158                      Pass
+ 1 Runs, length 6+:     161                      Pass
+
+ Longest run of 0:       17           0.07       Pass
+ Longest run of 1:       13           0.50       Pass
+ ----------------------------------------------------------
+ All values are within the required intervals of FIPS-140-2
+
+
+
