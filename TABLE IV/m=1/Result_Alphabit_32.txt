@@ -10,7 +10,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_MultinomialBitsOver test:
@@ -60,7 +60,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_MultinomialBitsOver test:
@@ -110,7 +110,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_MultinomialBitsOver test:
@@ -160,7 +160,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_MultinomialBitsOver test:
@@ -210,7 +210,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_HammingIndep test:
@@ -236,7 +236,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_HammingIndep test:
@@ -262,7 +262,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_HammingCorr test:
@@ -286,7 +286,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 swalk_RandomWalk1 test:
@@ -346,7 +346,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 swalk_RandomWalk1 test:
@@ -407,7 +407,7 @@ Generator state:
 ========= Summary results of Alphabit =========
 
  Version:          TestU01 1.2.3
- Generator:        TLSN_Bits
+ Generator:        PRNG_Bits
  Number of bits:   4294967296
  Number of statistics:  17
  Total CPU time:   00:07:04.76

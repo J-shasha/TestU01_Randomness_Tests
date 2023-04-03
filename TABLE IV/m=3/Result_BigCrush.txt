@@ -13,7 +13,7 @@ Test smarsa_SerialOver calling smultin_MultinomialOver
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_MultinomialOver test:
@@ -52,7 +52,7 @@ Test smarsa_SerialOver calling smultin_MultinomialOver
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_MultinomialOver test:
@@ -91,7 +91,7 @@ Test smarsa_CollisionOver calling smultin_MultinomialOver
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_MultinomialOver test:
@@ -143,7 +143,7 @@ Test smarsa_CollisionOver calling smultin_MultinomialOver
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_MultinomialOver test:
@@ -195,7 +195,7 @@ Test smarsa_CollisionOver calling smultin_MultinomialOver
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_MultinomialOver test:
@@ -247,7 +247,7 @@ Test smarsa_CollisionOver calling smultin_MultinomialOver
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_MultinomialOver test:
@@ -299,7 +299,7 @@ Test smarsa_CollisionOver calling smultin_MultinomialOver
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_MultinomialOver test:
@@ -351,7 +351,7 @@ Test smarsa_CollisionOver calling smultin_MultinomialOver
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_MultinomialOver test:
@@ -403,7 +403,7 @@ Test smarsa_CollisionOver calling smultin_MultinomialOver
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_MultinomialOver test:
@@ -455,7 +455,7 @@ Test smarsa_CollisionOver calling smultin_MultinomialOver
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_MultinomialOver test:
@@ -507,7 +507,7 @@ Test smarsa_CollisionOver calling smultin_MultinomialOver
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_MultinomialOver test:
@@ -559,7 +559,7 @@ Test smarsa_CollisionOver calling smultin_MultinomialOver
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_MultinomialOver test:
@@ -608,7 +608,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_BirthdaySpacings test:
@@ -637,7 +637,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_BirthdaySpacings test:
@@ -666,7 +666,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_BirthdaySpacings test:
@@ -695,7 +695,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_BirthdaySpacings test:
@@ -724,7 +724,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_BirthdaySpacings test:
@@ -753,7 +753,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_BirthdaySpacings test:
@@ -782,7 +782,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_BirthdaySpacings test:
@@ -811,7 +811,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_BirthdaySpacings test:
@@ -840,7 +840,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_BirthdaySpacings test:
@@ -869,7 +869,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 snpair_ClosePairs test:
@@ -917,7 +917,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 snpair_ClosePairs test:
@@ -965,7 +965,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 snpair_ClosePairs test:
@@ -1013,7 +1013,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 snpair_ClosePairs test:
@@ -1061,7 +1061,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_SimpPoker test:
@@ -1085,7 +1085,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_SimpPoker test:
@@ -1109,7 +1109,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_SimpPoker test:
@@ -1133,7 +1133,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_SimpPoker test:
@@ -1157,7 +1157,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_CouponCollector test:
@@ -1181,7 +1181,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_CouponCollector test:
@@ -1205,7 +1205,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_CouponCollector test:
@@ -1229,7 +1229,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_CouponCollector test:
@@ -1253,7 +1253,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_Gap test:
@@ -1277,7 +1277,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_Gap test:
@@ -1301,7 +1301,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_Gap test:
@@ -1325,7 +1325,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_Gap test:
@@ -1349,7 +1349,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_Run test:
@@ -1384,7 +1384,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_Run test:
@@ -1422,7 +1422,7 @@ Test sknuth_Permutation calling smultin_Multinomial
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_Multinomial test:
@@ -1461,7 +1461,7 @@ Test sknuth_Permutation calling smultin_Multinomial
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_Multinomial test:
@@ -1500,7 +1500,7 @@ Test sknuth_Permutation calling smultin_Multinomial
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_Multinomial test:
@@ -1539,7 +1539,7 @@ Test sknuth_Permutation calling smultin_Multinomial
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_Multinomial test:
@@ -1578,7 +1578,7 @@ Test sknuth_CollisionPermut calling smultin_Multinomial
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_Multinomial test:
@@ -1628,7 +1628,7 @@ Test sknuth_CollisionPermut calling smultin_Multinomial
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_Multinomial test:
@@ -1675,7 +1675,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_MaxOft test:
@@ -1728,7 +1728,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_MaxOft test:
@@ -1781,7 +1781,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_MaxOft test:
@@ -1834,7 +1834,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_MaxOft test:
@@ -1887,7 +1887,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 svaria_SampleProd test:
@@ -1917,7 +1917,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 svaria_SampleProd test:
@@ -1947,7 +1947,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 svaria_SampleProd test:
@@ -1977,7 +1977,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 svaria_SampleMean test:
@@ -2007,7 +2007,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 svaria_SampleMean test:
@@ -2037,7 +2037,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 svaria_SampleCorr test:
@@ -2060,7 +2060,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 svaria_SampleCorr test:
@@ -2083,7 +2083,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 svaria_AppearanceSpacings test:
@@ -2112,7 +2112,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 svaria_AppearanceSpacings test:
@@ -2141,7 +2141,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 svaria_WeightDistrib test:
@@ -2165,7 +2165,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 svaria_WeightDistrib test:
@@ -2189,7 +2189,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 svaria_WeightDistrib test:
@@ -2213,7 +2213,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 svaria_WeightDistrib test:
@@ -2237,7 +2237,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 svaria_WeightDistrib test:
@@ -2261,7 +2261,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 svaria_WeightDistrib test:
@@ -2285,7 +2285,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 svaria_SumCollector test:
@@ -2309,7 +2309,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_MatrixRank test:
@@ -2344,7 +2344,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_MatrixRank test:
@@ -2379,7 +2379,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_MatrixRank test:
@@ -2403,7 +2403,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_MatrixRank test:
@@ -2427,7 +2427,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_MatrixRank test:
@@ -2451,7 +2451,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_MatrixRank test:
@@ -2475,7 +2475,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_Savir2 test:
@@ -2510,7 +2510,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_GCD test:
@@ -2548,7 +2548,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 swalk_RandomWalk1 test:
@@ -2608,7 +2608,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 swalk_RandomWalk1 test:
@@ -2668,7 +2668,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 swalk_RandomWalk1 test:
@@ -2728,7 +2728,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 swalk_RandomWalk1 test:
@@ -2788,7 +2788,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 swalk_RandomWalk1 test:
@@ -2848,7 +2848,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 swalk_RandomWalk1 test:
@@ -2908,7 +2908,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 scomp_LinearComp test:
@@ -2940,7 +2940,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 scomp_LinearComp test:
@@ -2972,7 +2972,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 scomp_LempelZiv test:
@@ -3009,7 +3009,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 scomp_LempelZiv test:
@@ -3046,7 +3046,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sspectral_Fourier3 test:
@@ -3076,7 +3076,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sspectral_Fourier3 test:
@@ -3106,7 +3106,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_LongestHeadRun test:
@@ -3136,7 +3136,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_LongestHeadRun test:
@@ -3166,7 +3166,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_PeriodsInStrings test:
@@ -3201,7 +3201,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_PeriodsInStrings test:
@@ -3236,7 +3236,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_HammingWeight2 test:
@@ -3271,7 +3271,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_HammingWeight2 test:
@@ -3306,7 +3306,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_HammingCorr test:
@@ -3330,7 +3330,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_HammingCorr test:
@@ -3354,7 +3354,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_HammingCorr test:
@@ -3378,7 +3378,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_HammingIndep test:
@@ -3415,7 +3415,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_HammingIndep test:
@@ -3452,7 +3452,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_HammingIndep test:
@@ -3478,7 +3478,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_HammingIndep test:
@@ -3504,7 +3504,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_HammingIndep test:
@@ -3530,7 +3530,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_HammingIndep test:
@@ -3556,7 +3556,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_Run test:
@@ -3591,7 +3591,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_Run test:
@@ -3626,7 +3626,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_AutoCor test:
@@ -3663,7 +3663,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_AutoCor test:
@@ -3700,7 +3700,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_AutoCor test:
@@ -3737,7 +3737,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_AutoCor test:
@@ -3775,7 +3775,7 @@ Generator state:
 ========= Summary results of BigCrush =========
 
  Version:          TestU01 1.2.3
- Generator:        TLSN_Bits
+ Generator:        PRNG_Bits
  Number of statistics:  160
  Total CPU time:   36:57:06.27
  The following tests gave p-values outside [0.001, 0.9990]:

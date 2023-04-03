@@ -10,7 +10,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
 
 
@@ -61,7 +61,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
 
 
@@ -112,7 +112,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
 
 
@@ -163,7 +163,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
 
 
@@ -214,7 +214,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
 
 
@@ -241,7 +241,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
 
 
@@ -268,7 +268,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
 
 
@@ -293,7 +293,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
 
 
@@ -354,7 +354,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
 
 
@@ -416,7 +416,7 @@ Generator state:
 ========= Summary results of Alphabit =========
 
  Version:          TestU01 1.2.3
- Generator:        TLSN_Bits
+ Generator:        PRNG_Bits
 unif01_CreateBitBlockGen
  Number of bits:   4294967296
  Number of statistics:  17
@@ -435,7 +435,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
 
 
@@ -486,7 +486,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
 
 
@@ -537,7 +537,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
 
 
@@ -588,7 +588,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
 
 
@@ -639,7 +639,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
 
 
@@ -666,7 +666,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
 
 
@@ -693,7 +693,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
 
 
@@ -718,7 +718,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
 
 
@@ -779,7 +779,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
 
 
@@ -841,7 +841,7 @@ Generator state:
 ========= Summary results of Alphabit =========
 
  Version:          TestU01 1.2.3
- Generator:        TLSN_Bits
+ Generator:        PRNG_Bits
 unif01_CreateBitBlockGen
  Number of bits:   4294967296
  Number of statistics:  17
@@ -860,7 +860,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
 
 
@@ -911,7 +911,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
 
 
@@ -962,7 +962,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
 
 
@@ -1013,7 +1013,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
 
 
@@ -1064,7 +1064,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
 
 
@@ -1091,7 +1091,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
 
 
@@ -1118,7 +1118,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
 
 
@@ -1143,7 +1143,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
 
 
@@ -1204,7 +1204,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
 
 
@@ -1266,7 +1266,7 @@ Generator state:
 ========= Summary results of Alphabit =========
 
  Version:          TestU01 1.2.3
- Generator:        TLSN_Bits
+ Generator:        PRNG_Bits
 unif01_CreateBitBlockGen
  Number of bits:   4294967296
  Number of statistics:  17
@@ -1292,7 +1292,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
 
 
@@ -1343,7 +1343,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
 
 
@@ -1394,7 +1394,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
 
 
@@ -1445,7 +1445,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
 
 
@@ -1496,7 +1496,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
 
 
@@ -1523,7 +1523,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
 
 
@@ -1550,7 +1550,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
 
 
@@ -1575,7 +1575,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
 
 
@@ -1636,7 +1636,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
 
 
@@ -1698,7 +1698,7 @@ Generator state:
 ========= Summary results of Alphabit =========
 
  Version:          TestU01 1.2.3
- Generator:        TLSN_Bits
+ Generator:        PRNG_Bits
 unif01_CreateBitBlockGen
  Number of bits:   4294967296
  Number of statistics:  17
@@ -1717,7 +1717,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
 
 
@@ -1768,7 +1768,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
 
 
@@ -1819,7 +1819,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
 
 
@@ -1870,7 +1870,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
 
 
@@ -1921,7 +1921,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
 
 
@@ -1948,7 +1948,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
 
 
@@ -1975,7 +1975,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
 
 
@@ -2000,7 +2000,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
 
 
@@ -2061,7 +2061,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
 
 
@@ -2123,7 +2123,7 @@ Generator state:
 ========= Summary results of Alphabit =========
 
  Version:          TestU01 1.2.3
- Generator:        TLSN_Bits
+ Generator:        PRNG_Bits
 unif01_CreateBitBlockGen
  Number of bits:   4294967296
  Number of statistics:  17
@@ -2142,7 +2142,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
 
 
@@ -2193,7 +2193,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
 
 
@@ -2244,7 +2244,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
 
 
@@ -2295,7 +2295,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
 
 
@@ -2346,7 +2346,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
 
 
@@ -2373,7 +2373,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
 
 
@@ -2400,7 +2400,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
 
 
@@ -2425,7 +2425,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
 
 
@@ -2486,7 +2486,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
 
 
@@ -2548,7 +2548,7 @@ Generator state:
 ========= Summary results of Alphabit =========
 
  Version:          TestU01 1.2.3
- Generator:        TLSN_Bits
+ Generator:        PRNG_Bits
 unif01_CreateBitBlockGen
  Number of bits:   4294967296
  Number of statistics:  17

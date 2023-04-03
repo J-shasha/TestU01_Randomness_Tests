@@ -10,7 +10,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_BirthdaySpacings test:
@@ -42,7 +42,7 @@ Test sknuth_Collision calling smultin_Multinomial
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smultin_Multinomial test:
@@ -86,7 +86,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_Gap test:
@@ -110,7 +110,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_SimpPoker test:
@@ -134,7 +134,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_CouponCollector test:
@@ -158,7 +158,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sknuth_MaxOft test:
@@ -191,7 +191,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 svaria_WeightDistrib test:
@@ -215,7 +215,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 smarsa_MatrixRank test:
@@ -239,7 +239,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 sstring_HammingIndep test:
@@ -265,7 +265,7 @@ Generator state:
 ***********************************************************
 HOST = Studio, Darwin
 
-TLSN_Bits
+PRNG_Bits
 
 
 swalk_RandomWalk1 test:
@@ -326,7 +326,7 @@ Generator state:
 ========= Summary results of SmallCrush =========
 
  Version:          TestU01 1.2.3
- Generator:        TLSN_Bits
+ Generator:        PRNG_Bits
  Number of statistics:  15
  Total CPU time:   00:01:08.81
 

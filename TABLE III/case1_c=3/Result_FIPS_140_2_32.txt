@@ -9,7 +9,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ============== Summary results of FIPS-140-2 ==============
 
- Generator:        TLSN_Bits
+ Generator:        PRNG_Bits
  Number of bits:   20000
 
        Test          s-value        p-value    FIPS Decision
