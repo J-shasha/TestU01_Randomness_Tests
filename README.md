@@ -13,7 +13,7 @@ Therefore, the 2-D discrete neuron model is suitable for the application of PRNG
 ---
 
 ### **Table III:** TestU01 Results by The 2-D Discrete Neuron Model Under Four Control Parameters.
-| Battery                            | Data  | $Case 1: c = −3.3$ | $Case 1: c = 3$ | $Case 2: c = −3.3$  | $Case 2: c = 4.6$   |
+| $Battery$                          | $Data$| $Case 1: c = −3.3$ | $Case 1: c = 3$ | $Case 2: c = −3.3$  | $Case 2: c = 4.6$   |
 |------------------------------------|-------|------------|------------|------------|------------|
 | FIPS\-140\-2                       | 19 kB | 16/16      | 16/16      | 16/16      | 16/16      |
 | PseudoDIEHARD                      | 5 GB  | 126/126    | 126/126    | 126/126    | 126/126    |
@@ -23,10 +23,9 @@ Therefore, the 2-D discrete neuron model is suitable for the application of PRNG
 | SmallCrush                         | 6 GB  | 15/15      | 15/15      | 15/15      | 15/15      |
 | Crush                              | 1 TB  | 144/144    | 144/144    | 144/144    | 144/144    |
 | BigCrush                           | 10 TB | 160/160    | 160/160    | 160/160    | 160/160    |
-| Success No\.                       |       | 8/8        | 8/8        | 8/8        | 8/8        |
 
 ### **Table IV:** TestU01 Results by The 2-D Discrete Neuron Model Under Four Initial Conditions $(x_{0}, y_{0}) = (0.1+2mπ, 0)$.
-| Battery                            | Data  | $m = 0$    | $m = 1$    | $m = 2$    | $m = 3$    |
+| $Battery$                          | $Data$| $m = 0$    | $m = 1$    | $m = 2$    | $m = 3$    |
 |------------------------------------|-------|------------|------------|------------|------------|
 | FIPS\-140\-2                       | 19 kB | 16/16      | 16/16      | 16/16      | 16/16      |
 | PseudoDIEHARD                      | 5 GB  | 126/126    | 126/126    | 126/126    | 126/126    |
@@ -36,5 +35,4 @@ Therefore, the 2-D discrete neuron model is suitable for the application of PRNG
 | SmallCrush                         | 6 GB  | 15/15      | 15/15      | 15/15      | 15/15      |
 | Crush                              | 1 TB  | 144/144    | 144/144    | 144/144    | 144/144    |
 | BigCrush                           | 10 TB | 160/160    | 160/160    | 160/160    | 160/160    |
-| Success No\.                       |       | 8/8        | 8/8        | 8/8        | 8/8        |
 
